@@ -15,20 +15,20 @@ onMounted(() => {
         class="text-xl font-black leading-none text-gray-900 select-none dark:text-gray-100 logo"
         title="Sink"
       >Sink</a>
-      <a
+      <!-- <a
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
         href="https://html.zone"
         target="_blank"
         title="HTML.ZONE"
       >
         &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
-      </a>
+      </a> -->
       <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
       >
         <a
           ref="email"
-          href="mailto:sink.cool$miantiao.me"
+          href="mailto:rarestzhou$gmail.com"
           title="Email"
           class="text-gray-400 hover:text-gray-500"
         >
@@ -38,7 +38,7 @@ onMounted(() => {
           />
         </a>
         <a
-          href="https://t.me/htmlzone"
+          href="https://t.me/ItalyFish"
           target="_blank"
           title="Telegram"
           class="text-gray-400 hover:text-gray-500"
@@ -48,7 +48,7 @@ onMounted(() => {
             class="w-6 h-6"
           />
         </a>
-        <a
+        <!-- <a
           href="https://mt.ci"
           target="_blank"
           title="Blog"
@@ -58,10 +58,10 @@ onMounted(() => {
           <BloggerIcon
             class="w-6 h-6"
           />
-        </a>
+        </a> -->
 
         <a
-          href="https://x.com/ccbikai"
+          href="https://x.com/rarestzhou"
           target="_blank"
           title="Twitter"
           class="text-gray-400 hover:text-gray-500"
@@ -72,7 +72,7 @@ onMounted(() => {
           />
         </a>
 
-        <a
+        <!-- <a
           href="https://miantiao.me/@chi"
           target="_blank"
           title="Mastodon"
@@ -82,10 +82,10 @@ onMounted(() => {
           <MastodonIcon
             class="w-6 h-6"
           />
-        </a>
+        </a> -->
 
         <a
-          href="https://github.com/ccbikai"
+          href="https://github.com/Rarestq"
           target="_blank"
           title="GitHub"
           class="text-gray-400 hover:text-gray-500"
